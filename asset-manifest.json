@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuoteMuse-API.github.io/static/css/main.511b902d.css",
+    "main.js": "/QuoteMuse-API.github.io/static/js/main.16fba775.js",
+    "index.html": "/QuoteMuse-API.github.io/index.html",
+    "main.511b902d.css.map": "/QuoteMuse-API.github.io/static/css/main.511b902d.css.map",
+    "main.16fba775.js.map": "/QuoteMuse-API.github.io/static/js/main.16fba775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.511b902d.css",
+    "static/js/main.16fba775.js"
+  ]
+}
